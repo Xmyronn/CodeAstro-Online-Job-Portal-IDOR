@@ -1,4 +1,4 @@
-Broken Access Control in CodeAstro Online Job Portal Allows Arbitrary Job Deletion
+# Broken Access Control in CodeAstro Online Job Portal Allows Arbitrary Job Deletion
 
 ## Details
 - **Vendor:** CodeAstro
