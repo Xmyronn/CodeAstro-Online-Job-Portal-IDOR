@@ -1,4 +1,4 @@
-# IDOR Vulnerability in CodeAstro Online Job Portal PHP MySQL
+Broken Access Control in CodeAstro Online Job Portal Allows Arbitrary Job Deletion
 
 ## Details
 - **Vendor:** CodeAstro
