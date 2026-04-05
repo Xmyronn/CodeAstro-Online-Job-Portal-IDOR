@@ -4,7 +4,7 @@
 - **Vendor:** CodeAstro
 - **Product:** Online Job Portal Project in PHP MySQL
 - **Version:** 1.0
-- **Vulnerability Type:** Insecure Direct Object Reference (IDOR)
+- **Vulnerability Type:** Broken Access Control (IDOR)
 - **CWE:** CWE-639
 - **Affected File:** /jobs/job-delete.php
 - **Parameter:** id (GET)
