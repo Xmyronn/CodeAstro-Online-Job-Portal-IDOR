@@ -32,8 +32,9 @@ step 1:-
 GET /online-job-portal-php-mysql/jobs/job-delete.php?id=[victim_job_id] HTTP/1.1
 Host: target
 Cookie: [attacker_session_cookie]
-<img width="1920" height="1080" alt="Screenshot 2026-04-05 054510" src="https://github.com/user-attachments/assets/9cb0d0e2-79d0-44eb-8af0-eacf9d2bfaf9" />
+
 from user A we will make a new job post and we will take note of the id here which is 41
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 032744" src="https://github.com/user-attachments/assets/1a7fdcb9-75f5-43d4-ac1b-7518da52e587" />
 
 step 2 :- 
 from the user B we will delete its job post but intercept it using burp 
