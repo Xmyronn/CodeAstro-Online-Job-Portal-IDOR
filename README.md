@@ -63,3 +63,6 @@ Location: /online-job-portal-php-mysql/users/postedjobs.php?msg=deleted
 Any authenticated employer can permanently delete job postings 
 belonging to other employers on the platform, causing data loss 
 and disruption of service.
+
+## References
+https://codeastro.com/online-job-portal-project-in-php-mysql-with-source-code/
